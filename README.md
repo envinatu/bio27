@@ -68,7 +68,9 @@ A través de la herramienta **Quarto**, se construyen materiales educativos inte
 ## 📌 Estado del Proyecto
 
 🟢 En desarrollo – versión alfa (Julio 2025)
+
 🔜 Publicación estimada: Septiembre 2025
+
 📅 Mantenimiento proyectado hasta 2027
 
 ---
