@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tusitio.github.io/sitemap.xml
