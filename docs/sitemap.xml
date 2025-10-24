@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://envinatu.github.io/bio27/index.html</loc>
-    <lastmod>2025-07-17T19:05:57.209Z</lastmod>
+    <lastmod>2025-09-23T21:01:42.380Z</lastmod>
   </url>
   <url>
     <loc>https://envinatu.github.io/bio27/B1-U1-la_vida_origen_y_evolucion/1.1.01-vida_origen_evolucion--Teorias_sobre_el_origen_de_la_vida.html</loc>
-    <lastmod>2025-09-23T16:22:21.210Z</lastmod>
+    <lastmod>2025-10-06T17:33:08.005Z</lastmod>
   </url>
   <url>
     <loc>https://envinatu.github.io/bio27/B1-U1-la_vida_origen_y_evolucion/1.1.02-El_origen_de_la_materia_y_los_compuestos_en_la_Tierra_primitiva.html</loc>
@@ -25,6 +25,42 @@
     <lastmod>2025-09-15T20:40:17.547Z</lastmod>
   </url>
   <url>
+    <loc>https://envinatu.github.io/bio27/B1-U2-la_vida_se_organiza/1-2-01-la_vida_se_organiza--caracteristicas_de_las_biomoleculas.html</loc>
+    <lastmod>2025-10-07T23:41:33.333Z</lastmod>
+  </url>
+  <url>
+    <loc>https://envinatu.github.io/bio27/B1-U2-la_vida_se_organiza/1-2-02-biomoleculas_organicas_carbohidratos.html</loc>
+    <lastmod>2025-10-08T23:35:02.853Z</lastmod>
+  </url>
+  <url>
+    <loc>https://envinatu.github.io/bio27/B1-U2-la_vida_se_organiza/1-2-03-biomoleculas_organicas_lipidos.html</loc>
+    <lastmod>2025-10-15T02:29:15.502Z</lastmod>
+  </url>
+  <url>
+    <loc>https://envinatu.github.io/bio27/B1-U2-la_vida_se_organiza/1-2-04-biomoleculas_organicas_proteinas.html</loc>
+    <lastmod>2025-10-17T02:27:06.449Z</lastmod>
+  </url>
+  <url>
+    <loc>https://envinatu.github.io/bio27/B1-U2-la_vida_se_organiza/1-2-05-biomoleculas_organicas_acidos_nucleicos.html</loc>
+    <lastmod>2025-10-18T01:33:31.619Z</lastmod>
+  </url>
+  <url>
+    <loc>https://envinatu.github.io/bio27/B1-U2-la_vida_se_organiza/1-2-06-tipos_de_organizacion_de_las_celulas_animales.html</loc>
+    <lastmod>2025-10-20T23:36:49.601Z</lastmod>
+  </url>
+  <url>
+    <loc>https://envinatu.github.io/bio27/B1-U2-la_vida_se_organiza/1-2-07-tipos_de_organizacion_de_las_celulas_vegetales.html</loc>
+    <lastmod>2025-10-21T20:14:45.134Z</lastmod>
+  </url>
+  <url>
+    <loc>https://envinatu.github.io/bio27/B1-U2-la_vida_se_organiza/1-2-08-celulas_y_tejidos_en_organismos_multicelulares_animales.html</loc>
+    <lastmod>2025-10-22T23:34:02.086Z</lastmod>
+  </url>
+  <url>
+    <loc>https://envinatu.github.io/bio27/B1-U2-la_vida_se_organiza/1-2-09-celulas_y_tejidos_en_organismos_multicelulares_vegetales.html</loc>
+    <lastmod>2025-10-23T23:22:47.072Z</lastmod>
+  </url>
+  <url>
     <loc>https://envinatu.github.io/bio27/B2-U1-evolucion_biologica_y_celulas_eucarioticas/2-1-01-evolucion_biologica_y_celulas_eucarioticas--teorias_cientificas_sobre_la_evolucion_biologica_1.html</loc>
     <lastmod>2025-09-16T17:26:06.153Z</lastmod>
   </url>
@@ -35,5 +71,53 @@
   <url>
     <loc>https://envinatu.github.io/bio27/B2-U1-evolucion_biologica_y_celulas_eucarioticas/2-1-03-la_teoria_sintetica_de_la_evolucion.html</loc>
     <lastmod>2025-09-16T22:55:03.678Z</lastmod>
+  </url>
+  <url>
+    <loc>https://envinatu.github.io/bio27/B2-U1-evolucion_biologica_y_celulas_eucarioticas/2-1-04-los_pinzones_de_galapagos_y_la_seleccion_natural.html</loc>
+    <lastmod>2025-09-22T23:17:55.730Z</lastmod>
+  </url>
+  <url>
+    <loc>https://envinatu.github.io/bio27/B2-U1-evolucion_biologica_y_celulas_eucarioticas/2-1-05-los_organelos_de_las_celulas_eucariotas_1.html</loc>
+    <lastmod>2025-09-23T22:20:52.602Z</lastmod>
+  </url>
+  <url>
+    <loc>https://envinatu.github.io/bio27/B2-U1-evolucion_biologica_y_celulas_eucarioticas/2-1-06-los_organelos_de_las_celulas_eucariotas_2.html</loc>
+    <lastmod>2025-09-24T23:19:47.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://envinatu.github.io/bio27/B2-U1-evolucion_biologica_y_celulas_eucarioticas/2-1-07-la_membrana_celular.html</loc>
+    <lastmod>2025-09-26T17:32:28.387Z</lastmod>
+  </url>
+  <url>
+    <loc>https://envinatu.github.io/bio27/B3-U1-acidos_nucleicos_y_accion_enzimatica/3-1-01-acidos_nucleicos_y_accion_enzimatica--acidos_nucleicos_transmisores_de_la_informacion_genetica.html</loc>
+    <lastmod>2025-10-17T01:40:29.088Z</lastmod>
+  </url>
+  <url>
+    <loc>https://envinatu.github.io/bio27/B3-U1-acidos_nucleicos_y_accion_enzimatica/3-1-02-cromosomas_y_genes.html</loc>
+    <lastmod>2025-10-01T00:06:26.944Z</lastmod>
+  </url>
+  <url>
+    <loc>https://envinatu.github.io/bio27/B3-U1-acidos_nucleicos_y_accion_enzimatica/3-1-03-transcripcion_y_traduccion_del_arn_1.html</loc>
+    <lastmod>2025-10-01T23:05:38.330Z</lastmod>
+  </url>
+  <url>
+    <loc>https://envinatu.github.io/bio27/B3-U1-acidos_nucleicos_y_accion_enzimatica/3-1-04-transcripcion_y_traduccion_del_arn_2.html</loc>
+    <lastmod>2025-10-04T23:46:24.550Z</lastmod>
+  </url>
+  <url>
+    <loc>https://envinatu.github.io/bio27/B3-U1-acidos_nucleicos_y_accion_enzimatica/3-1-05-accion_enzimatica_en_los_procesos_metabolicos_celulares.html</loc>
+    <lastmod>2025-10-04T23:48:54.473Z</lastmod>
+  </url>
+  <url>
+    <loc>https://envinatu.github.io/bio27/saber_pedagogico/fundamentos_curriculares_27.html</loc>
+    <lastmod>2025-09-27T17:53:37.355Z</lastmod>
+  </url>
+  <url>
+    <loc>https://envinatu.github.io/bio27/BIOLOGÍA-2025-2026-2027.pdf</loc>
+    <lastmod>2025-10-24T18:38:32.660Z</lastmod>
+  </url>
+  <url>
+    <loc>https://envinatu.github.io/bio27/BIOLOGÍA-2025-2026-2027.epub</loc>
+    <lastmod>2025-10-24T18:39:00.344Z</lastmod>
   </url>
 </urlset>
