@@ -66,7 +66,7 @@ El modelo está diseñado para su aplicación en entornos presenciales, híbrido
 
 ------------------------------------------------------------------------
 
-## 📚 Referencias 
+## 📚 Referencias
 
 -   **Ministerio de Educación del Ecuador (2025).** CURRÍCULO PRIORIZADOCON ÉNFASIS EN COMPETENCIAS COMUNICACIONALES, MATEMÁTICAS, DIGITALES Y SOCIOEMOCIONALES. Nivel de Bachillerato General. CONTIENE INSERCIONES CURRICULARES.
 -   **Ministerio de Educación (Equipo técnico Mineduc). (2025a).** *Biología Bachillerato General 1*. Maya Ediciones.
