@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://envinatu.github.io/bio27/index.html</loc>
-    <lastmod>2025-09-23T21:01:42.380Z</lastmod>
+    <lastmod>2025-11-15T15:30:40.577Z</lastmod>
   </url>
   <url>
     <loc>https://envinatu.github.io/bio27/B1-U1-la_vida_origen_y_evolucion/1.1.01-vida_origen_evolucion--Teorias_sobre_el_origen_de_la_vida.html</loc>
@@ -61,6 +61,46 @@
     <lastmod>2025-10-23T23:22:47.072Z</lastmod>
   </url>
   <url>
+    <loc>https://envinatu.github.io/bio27/B1-U3-procesos_biologicos_esenciales/1-3-01-procesos_biologicos_esenciales--respiracion_circulacion_digestion_y_excrecion_en_animales.html</loc>
+    <lastmod>2026-01-18T21:02:09.939Z</lastmod>
+  </url>
+  <url>
+    <loc>https://envinatu.github.io/bio27/B1-U3-procesos_biologicos_esenciales/1-3-02-osmorregulacion_y_termorregulacion_en_animales.html</loc>
+    <lastmod>2025-12-23T00:03:00.563Z</lastmod>
+  </url>
+  <url>
+    <loc>https://envinatu.github.io/bio27/B1-U3-procesos_biologicos_esenciales/1-3-03-sistema_digestivo_en_el_ser_humano.html</loc>
+    <lastmod>2025-12-23T21:56:01.616Z</lastmod>
+  </url>
+  <url>
+    <loc>https://envinatu.github.io/bio27/B1-U3-procesos_biologicos_esenciales/1-3-04-procesos_de_la_digestion.html</loc>
+    <lastmod>2025-12-25T00:31:24.025Z</lastmod>
+  </url>
+  <url>
+    <loc>https://envinatu.github.io/bio27/B1-U3-procesos_biologicos_esenciales/1-3-05-sistema_excretor_en_el_ser_humano.html</loc>
+    <lastmod>2025-12-27T16:45:15.387Z</lastmod>
+  </url>
+  <url>
+    <loc>https://envinatu.github.io/bio27/B1-U3-procesos_biologicos_esenciales/1-3-06-fisiologia_renal.html</loc>
+    <lastmod>2025-12-27T16:45:22.991Z</lastmod>
+  </url>
+  <url>
+    <loc>https://envinatu.github.io/bio27/B1-U3-procesos_biologicos_esenciales/1-3-07-sistema_circulatorio_en_el_ser_humano.html</loc>
+    <lastmod>2025-12-28T23:31:18.883Z</lastmod>
+  </url>
+  <url>
+    <loc>https://envinatu.github.io/bio27/B1-U3-procesos_biologicos_esenciales/1-3-08-fisiologia_de_la_circulacion.html</loc>
+    <lastmod>2025-12-30T02:32:35.061Z</lastmod>
+  </url>
+  <url>
+    <loc>https://envinatu.github.io/bio27/B1-U3-procesos_biologicos_esenciales/1-3-09-sistema_respiratorio_en_el_ser_humano.html</loc>
+    <lastmod>2025-12-30T23:16:29.147Z</lastmod>
+  </url>
+  <url>
+    <loc>https://envinatu.github.io/bio27/B1-U3-procesos_biologicos_esenciales/1-3-10-fisiologia_de_la_respiracion.html</loc>
+    <lastmod>2025-12-31T22:52:44.278Z</lastmod>
+  </url>
+  <url>
     <loc>https://envinatu.github.io/bio27/B2-U1-evolucion_biologica_y_celulas_eucarioticas/2-1-01-evolucion_biologica_y_celulas_eucarioticas--teorias_cientificas_sobre_la_evolucion_biologica_1.html</loc>
     <lastmod>2025-09-16T17:26:06.153Z</lastmod>
   </url>
@@ -90,7 +130,7 @@
   </url>
   <url>
     <loc>https://envinatu.github.io/bio27/B2-U2-la_seleccion_natural_y_la_evolucion/2-2-01-la_seleccion_natural_y_la_evolucion--seleccion_natural_variacion_aislamiento_y_migracion_1.html</loc>
-    <lastmod>2025-10-27T22:53:01.956Z</lastmod>
+    <lastmod>2025-12-31T22:52:26.129Z</lastmod>
   </url>
   <url>
     <loc>https://envinatu.github.io/bio27/B2-U2-la_seleccion_natural_y_la_evolucion/2-2-02-seleccion_natural_variacion_aislamiento_y_migracion_2.html</loc>
@@ -103,6 +143,22 @@
   <url>
     <loc>https://envinatu.github.io/bio27/B2-U2-la_seleccion_natural_y_la_evolucion/2-2-04-taxonomia_y_relaciones_evolutivas.html</loc>
     <lastmod>2025-11-05T17:04:17.103Z</lastmod>
+  </url>
+  <url>
+    <loc>https://envinatu.github.io/bio27/B2-U3-la_diversidad_biologica_en_el_proceso_evolutivo/2-3-01-la_diversidad_biologica_en_el_proceso_evolutivo--tipos_de_diversidad-genes_especies_y_ecosistemas.html</loc>
+    <lastmod>2026-01-18T20:04:38.717Z</lastmod>
+  </url>
+  <url>
+    <loc>https://envinatu.github.io/bio27/B2-U3-la_diversidad_biologica_en_el_proceso_evolutivo/2-3-02-la_diversidad_a_nivel_de_especies.html</loc>
+    <lastmod>2026-01-07T00:15:19.105Z</lastmod>
+  </url>
+  <url>
+    <loc>https://envinatu.github.io/bio27/B2-U3-la_diversidad_biologica_en_el_proceso_evolutivo/2-3-03-las_diversas_formas_de_vida_y_el_proceso_evolutivo.html</loc>
+    <lastmod>2026-01-07T01:28:35.148Z</lastmod>
+  </url>
+  <url>
+    <loc>https://envinatu.github.io/bio27/B2-U3-la_diversidad_biologica_en_el_proceso_evolutivo/2-3-04-avances_tecnologicos_que_cubren_las_necesidades_humanas.html</loc>
+    <lastmod>2026-01-08T23:49:38.587Z</lastmod>
   </url>
   <url>
     <loc>https://envinatu.github.io/bio27/B3-U1-acidos_nucleicos_y_accion_enzimatica/3-1-01-acidos_nucleicos_y_accion_enzimatica--acidos_nucleicos_transmisores_de_la_informacion_genetica.html</loc>
@@ -126,7 +182,7 @@
   </url>
   <url>
     <loc>https://envinatu.github.io/bio27/B3-U2-procesos_de_reproduccion_y_desarrollo/3-2-01-procesos_de_reproduccion_y_desarrollo--la_reproduccion_instinto_vital.html</loc>
-    <lastmod>2025-11-06T23:51:17.588Z</lastmod>
+    <lastmod>2026-01-04T03:36:50.314Z</lastmod>
   </url>
   <url>
     <loc>https://envinatu.github.io/bio27/B3-U2-procesos_de_reproduccion_y_desarrollo/3-2-02-importancia_de_la_reproduccion_sexual.html</loc>
@@ -157,19 +213,39 @@
     <lastmod>2025-11-14T15:55:54.452Z</lastmod>
   </url>
   <url>
+    <loc>https://envinatu.github.io/bio27/B3-U3-genetica_y_herencia/3-3-01-genetica_y_herencia--las_leyes_de_mendel_1.html</loc>
+    <lastmod>2026-01-13T22:04:47.721Z</lastmod>
+  </url>
+  <url>
+    <loc>https://envinatu.github.io/bio27/B3-U3-genetica_y_herencia/3-3-02-las_leyes_de_mendel_2.html</loc>
+    <lastmod>2026-01-15T01:48:46.847Z</lastmod>
+  </url>
+  <url>
+    <loc>https://envinatu.github.io/bio27/B3-U3-genetica_y_herencia/3-3-03-leyes_y_principios_no_mendelianos_1.html</loc>
+    <lastmod>2026-01-16T01:50:41.010Z</lastmod>
+  </url>
+  <url>
+    <loc>https://envinatu.github.io/bio27/B3-U3-genetica_y_herencia/3-3-04-leyes_y_principios_no_mendelianos_2.html</loc>
+    <lastmod>2026-01-17T02:26:49.150Z</lastmod>
+  </url>
+  <url>
+    <loc>https://envinatu.github.io/bio27/B3-U3-genetica_y_herencia/3-3-05-teoria_cromosomica_de_la_herencia.html</loc>
+    <lastmod>2026-01-17T22:06:30.001Z</lastmod>
+  </url>
+  <url>
+    <loc>https://envinatu.github.io/bio27/B3-U3-genetica_y_herencia/3-3-06-genetica_de_poblaciones.html</loc>
+    <lastmod>2026-01-18T02:35:54.599Z</lastmod>
+  </url>
+  <url>
+    <loc>https://envinatu.github.io/bio27/B3-U3-genetica_y_herencia/3-3-07-desarrollo_historico_de_la_genetica.html</loc>
+    <lastmod>2026-01-18T17:56:20.822Z</lastmod>
+  </url>
+  <url>
     <loc>https://envinatu.github.io/bio27/saber_pedagogico/fundamentos_curriculares_27.html</loc>
     <lastmod>2025-09-27T17:53:37.355Z</lastmod>
   </url>
   <url>
     <loc>https://envinatu.github.io/bio27/saber_pedagogico/curriculo_2025/Curriculo-Priorizado-Bachillerato_Biologia.html</loc>
     <lastmod>2025-10-06T02:34:56.989Z</lastmod>
-  </url>
-  <url>
-    <loc>https://envinatu.github.io/bio27/BIOLOGÍA-2025-2026-2027.pdf</loc>
-    <lastmod>2025-11-14T16:07:25.665Z</lastmod>
-  </url>
-  <url>
-    <loc>https://envinatu.github.io/bio27/BIOLOGÍA-2025-2026-2027.epub</loc>
-    <lastmod>2025-11-14T16:07:58.491Z</lastmod>
   </url>
 </urlset>

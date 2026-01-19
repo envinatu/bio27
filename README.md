@@ -1,30 +1,40 @@
-# Adaptación Digital de contenidos de Biología
+# Proyecto de mejora del proceso de enseñanza-aprendizaje del área de Ciencias Naturales y Exactas
 
 ## **Bachillerato General Unificado (Ecuador, 2025–2027)**
 
 ### Autor: Marcelo Fernando Amores Palma
 
-**Niveles educativos:** 1.º, 2.º y 3.º de Bachillerato **Asignatura:** Biología **Período de aplicación:** Años lectivos 2025–2026 y 2026–2027
+**Niveles educativos:** 1.º, 2.º y 3.º de Bachillerato
+
+**Período de aplicación:** Años lectivos 2025–2026 y 2026–2027
 
 ------------------------------------------------------------------------
 
 ## 📘 Descripción General
 
-Este proyecto consiste en la adaptación, digitalización y divulgación multiformato de los contenidos curriculares de Biología para el Bachillerato General Unificado del Ecuador, conforme a los estándares de aprendizaje y destrezas con criterio de desempeño establecidos por el Ministerio de Educación.
+Este proyecto consiste en la mejora del proceso de enseñanza-aprendizaje mediante la adaptación, digitalización y divulgación multiformato de los contenidos curriculares del área de Ciencias Naturales y Exactas para el Bachillerato General Unificado del Ecuador, adoptando un enfoque educativo orientado al desarrollo de competencias
 
-Se implementan metodologías didácticas innovadoras como la **clase invertida**, el **aprendizaje basado en proyectos** y la **gamificación**, alineadas con principios de **Diseño Universal para el Aprendizaje (DUA)**, **aprendizaje activo**, **metacognitivo** y **personalizado**.
+Se implementan metodologías didácticas innovadoras como la **clase invertida**, el **aprendizaje basado en proyectos** y la **gamificación** coherentes con una concepción constructivista del aprendizaje, en la que el conocimiento se construye mediante la interacción con situaciones significativas, la resolución de problemas contextualizados y la reflexión metacognitiva sobre la experiencia. Estas metodologías se articulan con los principios del Diseño Universal para el Aprendizaje (DUA), favoreciendo trayectorias flexibles, inclusivas y adaptables a la diversidad de contextos y estudiantes.
 
-La producción de contenidos se realiza mediante la plataforma **Quarto**, utilizando lenguajes de programación y marcado como **R, Python, JavaScript, HTML, CSS**, así como composición tipográfica con **LaTeX** y **Markdown**. Se generan materiales navegables e interoperables en múltiples formatos: **HTML interactivo, EPUB, PDF académico, audio narrado (TTS)** y **video educativo con subtítulos incrustados**, este último optimizado para **salida multidispositivo**, mediante versiones en **formato horizontal (pantalla ancha)** y **vertical (formato móvil)**, lo cual **garantiza una accesibilidad ampliada del usuario final**, permitiendo el consumo de contenidos desde teléfonos inteligentes, tabletas, computadoras portátiles o proyectores, en función del contexto educativo.
+La producción de contenidos se realiza mediante la plataforma **Quarto**, utilizando lenguajes de programación y marcado como **R, Python, JavaScript, HTML, CSS**, así como composición tipográfica con **LaTeX** y **Markdown**. Se generan materiales navegables e interoperables en múltiples formatos: **HTML interactivo, EPUB, PDF académico, audio narrado (TTS)** y **video educativo con subtítulos incrustados**, este último optimizado para **salida multidispositivo**, mediante versiones en **formato horizontal (pantalla ancha)** y **vertical (formato móvil)**, lo cual **garantiza una accesibilidad ampliada del usuario final**, permitiendo el consumo de contenidos desde teléfonos inteligentes, tabletas, computadoras portátiles o proyectores, garantizando accesibilidad ampliada y adecuación a contextos reales de uso escolar.
 
 Para el desarrollo geoespacial y contextualización ambiental se integran herramientas de **Sistemas de Información Geográfica (SIG)** como **QGIS, ArcGIS y Google Earth Engine**. La edición y posproducción multimedia se lleva a cabo mediante **Premiere, Photoshop, Illustrator, Lightroom** y **Audition**.
 
-El modelo está diseñado para su aplicación en entornos presenciales, híbridos y virtuales, priorizando la inclusión digital, la accesibilidad y el desarrollo del pensamiento científico autónomo.
+El modelo está diseñado para su aplicación en entornos presenciales, híbridos y virtuales, priorizando la inclusión digital, la accesibilidad y el desarrollo del pensamiento científico autónomo, en coherencia con los lineamientos de fortalecimiento docente y producción de recursos educativos definidos por la política curricular nacional.
+
+## ⇨ Problema
+
+La necesidad de digitalizar y adaptar contenidos curriculares de Ciencias Naturales y Matemática de forma masiva, accesible y coherente con pedagogías activas, garantizando su divulgación en múltiples formatos y su adecuación a diversos estilos y contextos de aprendizaje.
+
+## ⇨ Objetivo general / Solución
+
+Presentar el diseño, desarrollo e implementación de un sistema automatizado basado en tecnologías científicas abiertas —Python, R, LaTeX, Quarto— que transforma documentos estructurados en Markdown en una suite integrada de materiales educativos multiformato (HTML interactivo, PDF, EPUB, audio y video con subtítulos sincronizados y resaltado dinámico, adaptados a pantallas horizontales y verticales), orientados a fortalecer el proceso de enseñanza–aprendizaje.
 
 ------------------------------------------------------------------------
 
-🎯 **Objetivos**
+🎯 **Objetivos específicos**
 
--   Digitalizar y adaptar los contenidos curriculares de Biología para los tres niveles de Bachillerato General Unificado, conforme al currículo nacional vigente del Ecuador.
+-   Digitalizar y adaptar los contenidos curriculares de las áreas de Ciencia Naturales y Exactas para los tres niveles de Bachillerato General Unificado, conforme al currículo nacional vigente del Ecuador.
 -   Incorporar estrategias metodológicas activas como la **clase invertida**, la **gamificación** y el **aprendizaje basado en proyectos**, orientadas a promover la participación estudiantil, la comprensión profunda y la motivación intrínseca.
 -   Generar materiales accesibles y navegables en múltiples formatos digitales (HTML, PDF, EPUB, audio TTS, video educativo), compatibles con plataformas de aprendizaje en línea y dispositivos móviles.
 -   Integrar herramientas de programación, sistemas de información geográfica y edición multimedia para enriquecer la experiencia educativa, tanto en contenidos como en contexto.
